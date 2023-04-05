@@ -1,6 +1,6 @@
 # BomDia.m
 
-The BomDia.m algorithm v3.0 is associated to:
+The BomDia.m algorithm v3.0 is associated with the following publication:
 
 Peeters, F. J. C., H. J. L. van der Lubbe, and P. Scussolini (2023), Age-Depth Models for Tropical Marine Hemipelagic Deposits Improve Significantly When Proxy-Based Information on Sediment Composition Is Included, Paleoceanography and Paleoclimatology, 38(1), e2022PA004476, doi: https://doi.org/10.1029/2022PA004476.
 
